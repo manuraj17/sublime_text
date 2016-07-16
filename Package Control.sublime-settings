@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Package Control",
+		"Predawn",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby"
+	]
+}

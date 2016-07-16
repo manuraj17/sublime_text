@@ -1,0 +1,5 @@
+[
+    // change column select defaults - on Linux it was Shift+Alt+Up/Down
+    { "keys": ["Shift+alt+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["Shift+alt+down"], "command": "select_lines", "args": {"forward": true} }
+]
